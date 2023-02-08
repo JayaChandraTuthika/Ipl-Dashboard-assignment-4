@@ -1,0 +1,22 @@
+.team-card-container {
+  text-decoration: none;
+  color: white;
+  width: 300px;
+  height: 140px;
+  margin: 15px;
+  padding: 15px;
+  border: 1px solid #ffffff;
+  background-color: #475569;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+}
+.team-card-image {
+  height: 85px;
+  width: 85px;
+}
+.team-card-name {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 5px;
+}

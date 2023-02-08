@@ -1,0 +1,45 @@
+.team-matches-bg-container {
+  /* background-color: blueviolet; */
+  background-color: transparent;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 4%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.team-banner-image {
+  width: 70%;
+}
+.last-matches-text {
+  font-size: 25px;
+  color: white;
+  width: 70%;
+  text-align: left;
+  margin-top: 15px;
+}
+
+.recent-matches-list-container {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  justify-content: center;
+}
+
+.color-1 {
+  background-image: linear-gradient(to top, #1e293b, #a4261d);
+}
+.color-2 {
+  background-image: linear-gradient(to top, #5755a7, #d91c1f);
+}
+.color-3 {
+  background-image: linear-gradient(to top, #f7db00, #ffffff33);
+}
+.color-4 {
+  background-image: linear-gradient(to top, #da237b, #13418b);
+}
+.color-5 {
+  background-image: linear-gradient(to top, #f26d22, #4f5db0);
+}
